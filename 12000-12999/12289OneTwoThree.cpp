@@ -12,7 +12,7 @@ int main() {
         if(input.size() > 3) 
             cout << "3" << endl;
         // 1
-        else if((input[0]=='o' && input[1]=='n') || (input[0]=='o' && input[1]=='e') || (input[2]=='e' && input[1]=='n')) 
+        else if((input[0]=='o' && input[1]=='n') || (input[0]=='o' && input[2]=='e') || (input[2]=='e' && input[1]=='n')) 
             cout << "1" << endl;
         else
             cout << "2" << endl;
