@@ -6,3 +6,4 @@
 *.txt
 .vscode
 tempCodeRunnerFile.cpp
+compararOutputs.cpp
